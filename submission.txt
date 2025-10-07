@@ -1,0 +1,14 @@
+# Menjalankan ETL Skrip
+python main.py atau bisa juga python3 main.py
+
+# Menjalankan Test ETL
+python -m pytest tests atau python3 -m pytest tests
+
+# Menjalankan test coverage pada folder tests
+coverage run -m pytest tests
+
+# Untuk melihat hasil test coverage
+coverage report -m
+
+# URL Google SpreadSheets
+https://docs.google.com/spreadsheets/d/1Q0JwLiOBGnmZ89Wi0sK0ueLSgXAUghSs5cgt0Cby3w4/edit?usp=sharing
